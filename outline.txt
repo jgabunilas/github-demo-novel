@@ -2,4 +2,6 @@ Making this change to outline.txt
 
 Making another change to outline.txt
 
+Break chapter 1 into 2 chapters
+
 How chapter 1 ends
