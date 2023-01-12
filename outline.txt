@@ -7,3 +7,5 @@ Break chapter 1 into 2 chapters
 How chapter 1 ends
 
 Some more text
+
+Make a change to illustrate --amend
