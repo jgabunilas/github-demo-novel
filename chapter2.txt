@@ -1,3 +1,5 @@
 Chapter 2 text
 
 Make a change to illustrate --amend
+
+Making some changes to illustrate Github

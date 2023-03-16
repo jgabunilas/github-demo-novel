@@ -3,3 +3,5 @@ edit to characters file to demonstrate committing with GUI (GitKraken)
 more edits to characters file!
 
 Make a change to illustrate --amend
+
+More github-enabling changeszzz
