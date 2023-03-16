@@ -1,9 +1,0 @@
-This is chapter 1
-
-Chapter 1 text here
-
-Remove text that will go to chapter 2
-
-End of chapter 1
-
-Make a change to illustrate --amend
